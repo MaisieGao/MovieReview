@@ -3,6 +3,7 @@ We built a full-stack application using the MERN (MongoDB, Express, React, Node.
 The website we built is a movie review website. It allows users to sign in using google id, search movie by title, view/update/delete reviews, check movie details, add movies to their favorites collection by clicking on stars, rank their favorite movies cards by dragging and dropping.
 
 **For backend:**
+
 We imported the already completed movie database in MongoDB.
 We connect mongodb database to our backend in index.js. We set the port value and the server to listen at the port. 
 We use express to makes the app available to serve HTTP requests.
@@ -11,6 +12,7 @@ we associate these routes to the controllers with api methods in the controller.
 The API methods connect to data retrieval methods in DAO files to retrieve data from database base on requests and then give the responses back to the frontend.
 
 **For Frontend:**
+
 We first create a react app.
 We used axios to create functions to make GET,PUT,POST,DELETE requests to the API which we have already implemented on the backend. 
 We used Google's authentication API to handle identity management and authentication. 
