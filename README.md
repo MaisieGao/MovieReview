@@ -10,6 +10,7 @@
 
 <img width="1469" alt="Screen Shot 2022-10-05 at 5 48 26 PM" src="https://user-images.githubusercontent.com/90473308/194189356-f0932028-9f4a-4963-81a7-32f3eac3d998.png">
 
+**Please check all the pages on Heroku**
 <hr/>
 Me and my teammates built a full-stack application using the MERN (MongoDB, Express, React, Node.js) stack.
 
