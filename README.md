@@ -12,7 +12,7 @@
 
 **Please check all the pages on Heroku!**
 <hr/>
-Me and my teammates built a full-stack application using the MERN (MongoDB, Express, React, Node.js) stack.
+I built a full-stack application using the MERN (MongoDB, Express, React, Node.js) stack.
 
 The website we built is a movie review website. It allows users to sign in using google id, search movie by title, view/update/delete reviews, check movie details, add movies to their favorites collection by clicking on stars, rank their favorite movies cards by dragging and dropping the movie cards.
 
@@ -20,7 +20,7 @@ The website we built is a movie review website. It allows users to sign in using
 
 *We imported the already completed movie database in MongoDB.
 <br />
-*We connected mongodb database to our backend in index.js. We set the port value and the server to listen at the port. 
+*We connected mongodb database to the backend in index.js. We set the port value and the server to listen at the port. 
 <br />
 *We used express to makes the app available to serve HTTP requests.
 <br />
