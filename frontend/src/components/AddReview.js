@@ -64,7 +64,7 @@ const AddReview = ({ user }) => {
                     as='textarea'
                     type='text'
                     required
-                    review={ review }
+                    value={ review }
                     onChange={onChangeReview}
                     defaultValue={editing? null:''}
                     />
